@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="AttendantLogger">
+    <output-path>$PROJECT_DIR$/out/artifacts/AttendantLogger</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="com.colin.attendantlogger" />
+        <option name="description" value="" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="nativeBundle" value="all" />
+        <option name="title" value="Attendant Logger" />
+        <option name="vendor" value="Eazley Tech" />
+        <option name="version" value="1.0.0.0" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="AttendantLogger.jar">
+        <element id="module-output" name="AttendeeLogger" />
+      </element>
+    </root>
+  </artifact>
+</component>
